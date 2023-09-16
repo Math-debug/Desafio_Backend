@@ -63,3 +63,10 @@ url: http://localhost:9000/product/{id}
 retorno:
 	200 OK
 		"Product with id 1 has been removed"
+		
+## 🛠️ Tecnologias utilizadas
+
+* Spring Boot
+* H2
+* JPA
+* Hibernate		
